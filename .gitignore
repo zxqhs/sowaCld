@@ -1,0 +1,21 @@
+# build
+/soundcloud-rpc
+/soundcloud-rpc.exe
+*.o
+*.obj
+*.a
+*.exe
+
+# user config (contains Discord Application ID)
+config.ini
+.config/
+
+# editor / OS
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*~
+
+# SoundCloud API client_id cache (runtime)
+/tmp/soundcloud-rpc-client-id*

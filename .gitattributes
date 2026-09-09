@@ -1,0 +1,7 @@
+* text=auto eol=lf
+*.png binary
+*.md text
+*.c text
+*.h text
+*.ini text
+Makefile text
